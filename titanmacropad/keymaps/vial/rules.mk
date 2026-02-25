@@ -1,0 +1,4 @@
+VIAL_ENABLE = yes
+
+QMK_SETTINGS_ENABLE = no
+LTO_ENABLE = no
