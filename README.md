@@ -21,6 +21,7 @@ The Titan Macropad supports on-the-fly configuration using Vial without needing 
 4. Click the "Start Vial Web" button.
 5. Click "Authorize Device" and select your Titan Macropad from the prompt.
 6. You can now visually configure the keymap, macros, and RGB lighting directly from your browser. Any changes you make are instantly saved to the macropad's memory.
+7. Click on the key on the website to select it, then the key/macro/lighting could be configured.
 
 ## 3D Model
 
